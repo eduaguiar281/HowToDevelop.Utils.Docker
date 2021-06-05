@@ -2,6 +2,11 @@
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
+    <Authors>Eduardo Aguiar</Authors>
+    <Company>How 2 Develop</Company>
+    <Product>Docker Utils</Product>
+    <Description>Biblioteca para manipular e gerar containers em Docker</Description>
+    <PackageLicenseExpression>H2Dev</PackageLicenseExpression>
   </PropertyGroup>
 
   <ItemGroup>
