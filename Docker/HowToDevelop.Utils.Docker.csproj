@@ -6,7 +6,10 @@
     <Company>How 2 Develop</Company>
     <Product>Docker Utils</Product>
     <Description>Biblioteca para manipular e gerar containers em Docker</Description>
-    <PackageLicenseExpression>H2Dev</PackageLicenseExpression>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl></PackageProjectUrl>
+    <RepositoryUrl>https://github.com/eduaguiar281/HowToDevelop.Utils.Docker</RepositoryUrl>
+    <PackageTags>Docker, DockerClient, Docker.Net</PackageTags>
   </PropertyGroup>
 
   <ItemGroup>
